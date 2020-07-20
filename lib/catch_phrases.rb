@@ -16,5 +16,5 @@ def link
 end
 
 def all_phrases
-It's Dangerous To Go Alone! Take This.
+
 end
