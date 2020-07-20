@@ -11,11 +11,13 @@ def toadstool
 end
 
 def link 
-  all_phrases = "'It's Dangerous To Go Alone! Take This.'"
+  all_phrases = "'It's Dangerous To Go Alone! Take This.n'"
   puts all_phrases
   all_phrases
 end
 
 def all_phrases
-
+  mario
+  toadstool
+  link
 end
